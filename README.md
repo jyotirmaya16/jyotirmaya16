@@ -10,6 +10,5 @@ Currently diving deep into the ocean of data analysis, soaking up knowledge like
 #### 💞️ Collaboration Ready
 Excited to embark on collaborations that spark innovation and creativity!
 
-
-####📫 Let's Connect!
-Ready to chat? Reach out at [jyotirmayamaharana16@gmail.com](mailto:jyotirmayamaharana16@gmail.com) and let's make data magic! 🚀💻
+#### 📫 Let's Connect!
+Ready to chat? Reach out at [jyotirmayamaharana16@gmail.com](mailto:jyotirmayamaharana16@gmail.com) and let's create some data magic! 🚀💻
