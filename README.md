@@ -12,3 +12,4 @@ Excited to embark on collaborations that spark innovation and creativity!
 
 #### 📫 Let's Connect!
 Ready to chat? Reach out at [jyotirmayamaharana16@gmail.com](mailto:jyotirmayamaharana16@gmail.com) and let's create some data magic! 🚀💻
+Linked in : www.linkedin.com/in/jyotirmaya-maharana-a32333299
