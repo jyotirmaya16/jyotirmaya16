@@ -1,8 +1,7 @@
-## 👋 Greetings!
-I'm Jyotirmaya, your gateway to a world of endless possibilities!
+### 👋 Hi, I'm Jyotirmaya!
 
-#### 👀 About Me
-Eyes wide open for all things data analysis and data science—it's my playground of possibilities.
+👨🏻‍💻 Aspiring Data Analyst passionate about turning data into insights.<br/>
+👨🏻‍🎓Studied [Data Analysis](https://olympus1.mygreatlearning.com/certificate/VEEDVPSG) at Great Learning, Hydrabad<br/>
 
 #### 🌱 Current Focus
 Currently diving deep into the ocean of data analysis, soaking up knowledge like a sponge!
