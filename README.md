@@ -6,15 +6,23 @@
 - 👨🏻‍🎓  Studied [Data Analysis](https://olympus1.mygreatlearning.com/certificate/VEEDVPSG) at Great Learning, Hydrabad
 - 👀  Discover more about me on my [portfolio](https://jyotirmaya16.github.io/portfolio.github.io/) website
 - 🌷  Check out my data [visualizations](https://public.tableau.com/app/profile/jyotirmaya.maharana/vizzes) on Tableau!
+- 📬  How to reach me [jyotiramyamaharana16@gmail.com](mailto:jyotiramyamaharana@example.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dsfdsfsdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsfdsfsdf" height="30" width="40" /></a>
-<a href="https://instagram.com/dfsdfsdfsdfds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dfsdfsdfsdfds" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jyotirmaya-maharana-a32333299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsfdsfsdf" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jyotirmayamaharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dfsdfsdfsdfds" height="30" width="40" /></a>
+ <a href="https://public.tableau.com/app/profile/jyotirmaya.maharana/vizzes">
+<img align="center" src="https://github.com/jyotirmaya16/portfolio.github.io/blob/main/assets/img/tableau.png?raw=true" 
+alt="tableau" height="30" width="40" /></a>
+<a href="https://jyotirmaya16.github.io/portfolio.github.io/">
+<img align="center" src="https://github.com/jyotirmaya16/portfolio.github.io/blob/main/assets/img/prtfolio.png?raw=true" 
+alt="Portfolio" height="60" width="80" /></a>
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jyotirmaya-maharana-a32333299/) [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://www.tableau.com/profile/your-profile) [![Portfolio](https://img.shields.io/badge/Portfolio-%234B0082.svg?logo=circle)](https://www.your-portfolio-website.com)
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://www.tableau.com/profile/your-profile) [![Portfolio](https://img.shields.io/badge/Portfolio-%234B0082.svg?logo=circle)](https://www.your-portfolio-website.com)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/jyotirmayamaharana](https://jyotirmaya16.github.io/portfolio.github.io/)) 
 
 
