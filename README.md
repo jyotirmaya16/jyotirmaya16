@@ -1,4 +1,5 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif)
+![MasterHead](https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/5973538b-7a59-4789-830b-8283157edc74)
+
 ### 👋 Hi, I'm Jyotirmaya!
 
 👨🏻‍💻  Aspiring `Data Analyst` passionate about turning data into insights<br/>
