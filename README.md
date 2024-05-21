@@ -9,7 +9,6 @@
 - 🌷  Check out my data [visualizations](https://public.tableau.com/app/profile/jyotirmaya.maharana/vizzes) on Tableau!
 - 📬  How to reach me [jyotiramyamaharana16@gmail.com](mailto:jyotiramyamaharana@example.com)
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jyotirmaya-maharana-a32333299" target="blank"><img align="center" src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/ba826ab4-7b04-4aa3-85bf-6e8806c59950" alt="linkedin" height="auto" width="60" /></a>
@@ -28,7 +27,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## Featured Project
+<h3 align="left">Featured Project
+    <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/316da22d-795b-4bce-afc1-d62403b95aca" 
+    alt="waving hand gif" width="35"/></h3>
 
 <table>
   <tr>
@@ -39,7 +40,7 @@
     </td>
     <td>
       <h3>
-        <a href="https://github.com/jyotirmaya16/end_to_end_project_retail_order" target="_blank">Retail Order Project</a>
+        <a href="https://github.com/jyotirmaya16/end_to_end_project_retail_order" target="_blank">End-to-End Retail order Data Visualisation</a>
       </h3>
       <p>This project focuses on analyzing a retail order dataset using the ETL (Extract, Transform, Load) process. The goal was to extract data, clean and transform it, then load it into a SQL database for querying and further analysis. The final insights were visualized using Tableau to create an interactive dashboard.</p>
     </td>
