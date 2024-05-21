@@ -28,3 +28,20 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+## Featured Project
+
+<div style="display: flex; justify-content: center;">
+
+  <!-- Project 1 -->
+  <div style="border: 1px solid #ddd; border-radius: 5px; width: 100px; margin: 10px; padding: 10px;">
+    <h3>Project Title</h3>
+    <a href="URL_TO_PROJECT">
+      <img src="https://github.com/jyotirmaya16/end_to_end_project_retail_order/blob/main/preview.jpg?raw=true" style="width: 100%; max-width: 100px; height: auto; border-radius: 5px;">
+    </a>
+    <p>Short description of the project.</p>
+  </div>
+
+</div>
+
+
+
