@@ -1,6 +1,7 @@
 ![MasterHead](https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/5973538b-7a59-4789-830b-8283157edc74)
 <h1 align="center">👋 Hi, I'm Jyotirmaya</h1>
 <h3 align="center"> A Passionate Data Analyst from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmaya16" alt="jyotirmaya16" /> </p>
 
 - 🔭  Currently learning DSA and advancing my analytical skills
@@ -28,8 +29,7 @@ alt="Portfolio" height="60" width="80" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmaya16&hide_progress=true&layout=compact&title_color=02becf&text_color=ffffff&bg_color=1e2235&border_color=444444) <br/>
 
-[![](https://visitcount.itsvg.in/api?id=jyotirmaya16&icon=0&color=0)](https://visitcount.itsvg.in)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
