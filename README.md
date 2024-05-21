@@ -9,7 +9,7 @@
 - 🌷  Check out my data [visualizations](https://public.tableau.com/app/profile/jyotirmaya.maharana/vizzes) on Tableau!
 - 📬  How to reach me [jyotiramyamaharana16@gmail.com](mailto:jyotiramyamaharana@example.com)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/3a69c50f-e1b3-4481-a24e-c82b30c04302" alt="waving hand gif" width="35"/> Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jyotirmaya-maharana-a32333299" target="blank"><img align="center" src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/ba826ab4-7b04-4aa3-85bf-6e8806c59950" alt="linkedin" height="auto" width="60" /></a>
 <a href="https://www.instagram.com/jyotirmayamaharana" target="blank"><img align="center" src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/654bd059-f6aa-4ed1-a203-08e406d78798" alt="instagram" height="auto" width="60" /></a>
@@ -23,13 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmaya16&hide_progress=true&layout=compact&title_color=02becf&text_color=ffffff&bg_color=1e2235&border_color=444444) <br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<h3 align="left">Featured Project
-    <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/316da22d-795b-4bce-afc1-d62403b95aca" 
-    alt="waving hand gif" width="35"/></h3>
+<h3 align="left"><img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/316da22d-795b-4bce-afc1-d62403b95aca" alt="waving hand gif" width="35"/> Featured Project</h3>
 
 <table>
   <tr>
@@ -47,8 +41,9 @@
   </tr>
 </table>
 
+<h3 align="left"><img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/d4d91431-aff3-46d5-bac7-f3b331443bde" alt="waving hand gif" width="35"/>Random Dev Quote</h3>
 
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
