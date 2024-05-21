@@ -12,14 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jyotirmaya-maharana-a32333299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsfdsfsdf" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jyotirmayamaharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dfsdfsdfsdfds" height="30" width="40" /></a>
- <a href="https://public.tableau.com/app/profile/jyotirmaya.maharana/vizzes">
-<img align="center" src="https://github.com/jyotirmaya16/portfolio.github.io/blob/main/assets/img/tableau.png?raw=true" 
-alt="tableau" height="30" width="40" /></a>
-<a href="https://jyotirmaya16.github.io/portfolio.github.io/">
-<img align="center" src="https://github.com/jyotirmaya16/portfolio.github.io/blob/main/assets/img/prtfolio.png?raw=true" 
-alt="Portfolio" height="30" width="60" /></a>
+<a href="https://www.linkedin.com/in/jyotirmaya-maharana-a32333299" target="blank"><img align="center" src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/ba826ab4-7b04-4aa3-85bf-6e8806c59950" alt="linkedin" height="auto" width="60" /></a>
+<a href="https://www.instagram.com/jyotirmayamaharana" target="blank"><img align="center" src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/654bd059-f6aa-4ed1-a203-08e406d78798" alt="instagram" height="auto" width="60" /></a>
+<a href="https://public.tableau.com/app/profile/jyotirmaya.maharana/vizzes"><img align="center" src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/475e5f4d-aaba-42e1-9a7e-b5f21d925f87" alt="tableau" height="auto" width="60" /></a>
+<a href="https://jyotirmaya16.github.io/portfolio.github.io/"><img align="center" src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/4ed4c65b-144f-4d94-a662-286dc8cb0347" alt="Portfolio" height="auto" width="60" /></a>
 </p>
 
 <h3 align="left">Tech Stacks:</h3>
