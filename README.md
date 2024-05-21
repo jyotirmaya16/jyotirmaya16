@@ -1,13 +1,17 @@
 ![MasterHead](https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/5973538b-7a59-4789-830b-8283157edc74)
+<h1 align="center">👋 Hi, I'm Jyotirmaya</h1>
+<h3 align="center"> A Passionate Data Analyst from India</h3>
 
-### 👋 Hi, I'm Jyotirmaya!
+- 🔭  Currently learning DSA and advancing my analytical skills
+- 👨🏻‍🎓  Studied [Data Analysis](https://olympus1.mygreatlearning.com/certificate/VEEDVPSG) at Great Learning, Hydrabad
+- 👀  Discover more about me on my [portfolio](https://jyotirmaya16.github.io/portfolio.github.io/) website
+- 🌷  Check out my data [visualizations](https://public.tableau.com/app/profile/jyotirmaya.maharana/vizzes) on Tableau!
 
-👨🏻‍💻  Aspiring `Data Analyst` passionate about turning data into insights<br/>
-👨🏻‍🎓  Studied [Data Analysis](https://olympus1.mygreatlearning.com/certificate/VEEDVPSG) at Great Learning, Hydrabad<br/>
-👀  Discover more about me on my [portfolio](https://jyotirmaya16.github.io/portfolio.github.io/) website<br/>
-💭  Currently learning DSA and advancing my analytical skills<br/>
-🌷  Check out my data [visualizations](https://public.tableau.com/app/profile/jyotirmaya.maharana/vizzes) on Tableau!<br/>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dsfdsfsdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsfdsfsdf" height="30" width="40" /></a>
+<a href="https://instagram.com/dfsdfsdfsdfds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dfsdfsdfsdfds" height="30" width="40" /></a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jyotirmaya-maharana-a32333299/) [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://www.tableau.com/profile/your-profile) [![Portfolio](https://img.shields.io/badge/Portfolio-%234B0082.svg?logo=circle)](https://www.your-portfolio-website.com)
