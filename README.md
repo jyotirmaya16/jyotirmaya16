@@ -20,7 +20,7 @@
 alt="tableau" height="30" width="40" /></a>
 <a href="https://jyotirmaya16.github.io/portfolio.github.io/">
 <img align="center" src="https://github.com/jyotirmaya16/portfolio.github.io/blob/main/assets/img/prtfolio.png?raw=true" 
-alt="Portfolio" height="60" width="80" /></a>
+alt="Portfolio" height="30" width="60" /></a>
 </p>
 
 <h3 align="left">Tech Stacks:</h3>
