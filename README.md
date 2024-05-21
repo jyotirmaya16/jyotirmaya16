@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/5973538b-7a59-4789-830b-8283157edc74)
-<h1 align="center"><img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/1422cc4f-9117-4cd2-bdb6-22792cf354fb" alt="waving hand gif" width="35"/> Hi, I'm Jyotirmaya</h1>
+<h1 align="center">Hi <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/1422cc4f-9117-4cd2-bdb6-22792cf354fb" alt="waving hand gif" width="35"/> , I'm Jyotirmaya</h1>
 <h3 align="center"> A Passionate Data Analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmaya16" alt="jyotirmaya16" /> </p>
 
