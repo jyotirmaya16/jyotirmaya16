@@ -30,18 +30,26 @@
 
 ## Featured Project
 
-<div style="display: flex; justify-content: center;">
+<table>
+  <tr>
+    <td width="220">
+      <a href="https://github.com/jyotirmaya16/end_to_end_project_retail_order" target="_blank">
+        <img src="https://github.com/jyotirmaya16/end_to_end_project_retail_order/blob/main/preview.jpg?raw=true" alt="Retail Order Project Screenshot" width="220">
+      </a>
+    </td>
+    <td>
+      <h3>
+        <a href="https://github.com/jyotirmaya16/end_to_end_project_retail_order" target="_blank">Retail Order Project</a>
+      </h3>
+      <p>This project focuses on analyzing a retail order dataset using the ETL (Extract, Transform, Load) process. The goal was to extract data, clean and transform it, then load it into a SQL database for querying and further analysis. The final insights were visualized using Tableau to create an interactive dashboard.</p>
+    </td>
+  </tr>
+</table>
 
-  <!-- Project 1 -->
-  <div style="border: 1px solid #ddd; border-radius: 5px; width: 100px; margin: 10px; padding: 10px;">
-    <h3>Project Title</h3>
-    <a href="URL_TO_PROJECT">
-      <img src="https://github.com/jyotirmaya16/end_to_end_project_retail_order/blob/main/preview.jpg?raw=true" style="width: 100%; max-width: 100px; height: auto; border-radius: 5px;">
-    </a>
-    <p>Short description of the project.</p>
-  </div>
 
-</div>
+
+
+
 
 
 
