@@ -29,7 +29,7 @@
   <tr>
     <td width="220">
       <a href="https://github.com/jyotirmaya16/end_to_end_project_retail_order" target="_blank">
-        <img src="https://github.com/jyotirmaya16/end_to_end_project_retail_order/blob/main/preview.jpg?raw=true" alt="Retail Order Project Screenshot" width="220">
+        <img src="https://github.com/jyotirmaya16/end_to_end_project_retail_order/blob/main/preview.jpg?raw=true" alt="Retail Order Project Screenshot" width=auto>
       </a>
     </td>
     <td>
@@ -37,6 +37,40 @@
         <a href="https://github.com/jyotirmaya16/end_to_end_project_retail_order" target="_blank">End-to-End Retail order Data Visualisation</a>
       </h3>
       <p>This project focuses on analyzing a retail order dataset using the ETL (Extract, Transform, Load) process. The goal was to extract data, clean and transform it, then load it into a SQL database for querying and further analysis. The final insights were visualized using Tableau to create an interactive dashboard.</p>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td width="220">
+      <a href="https://github.com/jyotirmaya16/CROP-Prediction-Project" target="_blank">
+        <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/ef756c90-fb6c-4512-ad91-9c3c2ccda694" alt="crop_prediction" width=auto>
+      </a>
+    </td>
+    <td>
+      <h3>
+        <a href="https://github.com/jyotirmaya16/CROP-Prediction-Project" target="_blank">Smart Crop Prediction System🌾</a>
+      </h3>
+      <p>Revolutionizing agriculture through cutting-edge technology, this server-level project seamlessly integrates data science and web development. Leveraging Python and logistic regression, I've crafted a backend model that operates at the server level, predicting optimal crops based on vital soil measurements—nitrogen, phosphorus, rainfall, and potassium.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="220">
+      <a href="https://github.com/jyotirmaya16/Road_Accident_Analysis_Dashboard" target="_blank">
+        <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/0a9fcbc5-f67c-4275-8ca8-db32bbde259e" alt="crop_prediction" width=auto>
+      </a>
+    </td>
+    <td>
+      <h3>
+        <a href="https://github.com/jyotirmaya16/Road_Accident_Analysis_Dashboard" target="_blank">Road Accident Analysis Dashboard</a>
+      </h3>
+      <p>This dashboard provides insightful visualizations of road accidents, allowing users to explore and analyze accident data to understand trends, patterns, 
+        and contributing factors.</p>
     </td>
   </tr>
 </table>
