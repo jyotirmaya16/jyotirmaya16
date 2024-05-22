@@ -53,7 +53,7 @@
       <h3>
         <a href="https://github.com/jyotirmaya16/CROP-Prediction-Project" target="_blank">Smart Crop Prediction System🌾</a>
       </h3>
-      <p>Revolutionizing agriculture through cutting-edge technology, this server-level project seamlessly integrates data science and web development. Leveraging Python and logistic regression, I've crafted a backend model that operates at the server level, predicting optimal crops based on vital soil measurements—nitrogen, phosphorus, rainfall, and potassium.</p>
+      <p>This server-level project seamlessly integrates data science and web development. Leveraging Python and logistic regression, I've crafted a backend model that operates at the server level, predicting optimal crops based on vital soil measurements—nitrogen, phosphorus, rainfall, and potassium.</p>
     </td>
   </tr>
 </table>
