@@ -28,6 +28,22 @@
 <table>
   <tr>
     <td width="220">
+      <a href="https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi?tab=readme-ov-file#spotify-songs-analysis" target="_blank">
+        <img src="https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi/assets/146333462/8257a24f-d338-4e73-9e22-59750da3c083" alt="Retail Order Project Screenshot" width=auto>
+      </a>
+    </td>
+    <td>
+      <h3>
+        <a href="https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi?tab=readme-ov-file#spotify-songs-analysis" target="_blank">Spotify Songs Analysis</a>
+      </h3>
+      <p>This project presents a comprehensive analysis of Spotify songs (till 2023) using Power BI, embedded within a phone mockup to enhance the user experience. The dashboard is designed with interactive elements and dynamic visuals to help users explore and understand the data effectively🎵🎵.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="220">
       <a href="https://github.com/jyotirmaya16/end_to_end_project_retail_order" target="_blank">
         <img src="https://github.com/jyotirmaya16/end_to_end_project_retail_order/blob/main/preview.jpg?raw=true" alt="Retail Order Project Screenshot" width=auto>
       </a>
@@ -58,22 +74,6 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="220">
-      <a href="https://github.com/jyotirmaya16/Road_Accident_Analysis_Dashboard" target="_blank">
-        <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/0a9fcbc5-f67c-4275-8ca8-db32bbde259e" alt="crop_prediction" width=auto>
-      </a>
-    </td>
-    <td>
-      <h3>
-        <a href="https://github.com/jyotirmaya16/Road_Accident_Analysis_Dashboard" target="_blank">Road Accident Analysis Dashboard</a>
-      </h3>
-      <p>This dashboard provides insightful visualizations of road accidents, allowing users to explore and analyze accident data to understand trends, patterns, 
-        and contributing factors.</p>
-    </td>
-  </tr>
-</table>
 
 <h3 align="left"><img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/d4d91431-aff3-46d5-bac7-f3b331443bde" alt="waving hand gif" width="35"/>Random Dev Quote</h3>
 
