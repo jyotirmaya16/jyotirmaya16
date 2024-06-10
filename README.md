@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmaya16&hide_progress=true&layout=compact&title_color=02becf&text_color=ffffff&bg_color=1e2235&border_color=444444) <br/>
 
-<h3 align="left"><img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/316da22d-795b-4bce-afc1-d62403b95aca" alt="waving hand gif" width="35"/> Featured Project</h3>
+<h3 align="left"><img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/316da22d-795b-4bce-afc1-d62403b95aca" alt="waving hand gif" width="35"/> Featured Projects</h3>
 
 <table>
   <tr>
