@@ -28,6 +28,22 @@
 <table>
   <tr>
     <td width="220">
+      <a href="https://github.com/jyotirmaya16/IPL_Win_Prediction?tab=readme-ov-file#ipl-win-prediction-app" target="_blank">
+        <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/4000f85f-d730-4cfe-92c2-4a6b87b46c06" alt="crop_prediction" width=auto>
+      </a>
+    </td>
+    <td>
+      <h3>
+        <a href="https://github.com/jyotirmaya16/IPL_Win_Prediction?tab=readme-ov-file#ipl-win-prediction-app" target="_blank">IPL Win Prediction App</a>
+      </h3>
+      <p>an end-to-end Python application that predicts which IPL team is likely to win the match. This app utilizes 2008-2023 IPL data and machine learning techniques to generate its predictions.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="220">
       <a href="https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi?tab=readme-ov-file#spotify-songs-analysis" target="_blank">
         <img src="https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi/assets/146333462/8257a24f-d338-4e73-9e22-59750da3c083" alt="Retail Order Project Screenshot" width=auto>
       </a>
@@ -53,23 +69,6 @@
         <a href="https://github.com/jyotirmaya16/end_to_end_project_retail_order" target="_blank">End-to-End Retail order Data Visualisation</a>
       </h3>
       <p>This project focuses on analyzing a retail order dataset using the ETL (Extract, Transform, Load) process. The goal was to extract data, clean and transform it, then load it into a SQL database for querying and further analysis. The final insights were visualized using Tableau to create an interactive dashboard.</p>
-    </td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td width="220">
-      <a href="https://github.com/jyotirmaya16/CROP-Prediction-Project" target="_blank">
-        <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/ef756c90-fb6c-4512-ad91-9c3c2ccda694" alt="crop_prediction" width=auto>
-      </a>
-    </td>
-    <td>
-      <h3>
-        <a href="https://github.com/jyotirmaya16/CROP-Prediction-Project" target="_blank">Smart Crop Prediction System🌾</a>
-      </h3>
-      <p>This server-level project seamlessly integrates data science and web development. Leveraging Python and logistic regression, I've crafted a backend model that operates at the server level, predicting optimal crops based on vital soil measurements—nitrogen, phosphorus, rainfall, and potassium.</p>
     </td>
   </tr>
 </table>
