@@ -29,7 +29,7 @@
   <tr>
     <td width="220">
       <a href="https://github.com/jyotirmaya16/IPL_Win_Prediction?tab=readme-ov-file#ipl-win-prediction-app" target="_blank">
-        <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/4000f85f-d730-4cfe-92c2-4a6b87b46c06" alt="crop_prediction" width=auto>
+        <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/5f1837dc-57c0-4712-893c-7326c0498808" alt="crop_prediction" width=auto>
       </a>
     </td>
     <td>
