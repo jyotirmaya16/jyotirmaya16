@@ -36,7 +36,7 @@
       <h3>
         <a href="https://github.com/jyotirmaya16/IPL_Win_Prediction?tab=readme-ov-file#ipl-win-prediction-app" target="_blank">IPL Win Prediction App</a>
       </h3>
-      <p>an end-to-end Python application that predicts which IPL team is likely to win the match. This app utilizes 2008-2023 IPL data and machine learning techniques to generate its predictions.</p>
+      <p>An end-to-end Python application that predicts which IPL team is likely to win the match. This app utilizes 2008-2023 IPL data and machine learning techniques to generate its predictions.</p>
     </td>
   </tr>
 </table>
