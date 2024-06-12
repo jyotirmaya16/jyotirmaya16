@@ -8,7 +8,7 @@
 - 👨🏻‍🎓  Studied [Data Analysis](https://olympus1.mygreatlearning.com/certificate/VEEDVPSG) at Great Learning, Hydrabad
 - 👀  Discover more about me on my [portfolio](https://jyotirmaya16.github.io/portfolio.github.io/) website
 - 🌷  Check out my data [visualizations](https://public.tableau.com/app/profile/jyotirmaya.maharana/vizzes) on Tableau!
-- 📬  How to reach me [jyotiramyamaharana16@gmail.com](mailto:jyotiramyamaharana@example.com)
+- 📬  How to reach me [jyotiramyamaharana16@gmail.com](mailto:jyotirmayamaharana16@gmail.com)
 
 <h3 align="left"><img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/3a69c50f-e1b3-4481-a24e-c82b30c04302" alt="waving hand gif" width="35"/> Connect with me:</h3>
 <p align="left">
