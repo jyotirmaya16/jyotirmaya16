@@ -35,7 +35,7 @@
     </td>
     <td>
       <h3>
-        <a href="https://github.com/jyotirmaya16/IPL_Win_Prediction?tab=readme-ov-file#ipl-win-prediction-app" target="_blank">Indian Squad 2024 Dashboard</a>
+        <a href="https://github.com/jyotirmaya16/Indian-Squad-2024-Dashboard?tab=readme-ov-file#indian-squad-2024-dashboard" target="_blank">Indian Squad 2024 Dashboard</a>
       </h3>
       <p>This project visualizes the IPL statistics of Indian players who are nominated for the T20 World Cup 2024. The dashboard is created using Tableau and provides dynamic insights into player performance through various KPIs and charts.</p>
     </td>
