@@ -29,8 +29,24 @@
 <table>
   <tr>
     <td width="220">
+      <a href="https://github.com/jyotirmaya16/Indian-Squad-2024-Dashboard?tab=readme-ov-file#indian-squad-2024-dashboard" target="_blank">
+        <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/462730dc-5a03-4e4c-9ef4-91c38ac74fc5" alt="indian_squad_2024_dashboard" width=auto>  
+      </a>
+    </td>
+    <td>
+      <h3>
+        <a href="https://github.com/jyotirmaya16/IPL_Win_Prediction?tab=readme-ov-file#ipl-win-prediction-app" target="_blank">Indian Squad 2024 Dashboard</a>
+      </h3>
+      <p>This project visualizes the IPL statistics of Indian players who are nominated for the T20 World Cup 2024. The dashboard is created using Tableau and provides dynamic insights into player performance through various KPIs and charts.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="220">
       <a href="https://github.com/jyotirmaya16/IPL_Win_Prediction?tab=readme-ov-file#ipl-win-prediction-app" target="_blank">
-        <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/5f1837dc-57c0-4712-893c-7326c0498808" alt="crop_prediction" width=auto>
+        <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/5f1837dc-57c0-4712-893c-7326c0498808" alt="IPL Win Prediction App" width=auto>
       </a>
     </td>
     <td>
@@ -46,7 +62,7 @@
   <tr>
     <td width="220">
       <a href="https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi?tab=readme-ov-file#spotify-songs-analysis" target="_blank">
-        <img src="https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi/assets/146333462/8257a24f-d338-4e73-9e22-59750da3c083" alt="Retail Order Project Screenshot" width=auto>
+        <img src="https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi/assets/146333462/8257a24f-d338-4e73-9e22-59750da3c083" alt="Spotify Songs Analysis" width=auto>
       </a>
     </td>
     <td>
@@ -58,18 +74,3 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="220">
-      <a href="https://github.com/jyotirmaya16/end_to_end_project_retail_order" target="_blank">
-        <img src="https://github.com/jyotirmaya16/end_to_end_project_retail_order/blob/main/preview.jpg?raw=true" alt="Retail Order Project Screenshot" width=auto>
-      </a>
-    </td>
-    <td>
-      <h3>
-        <a href="https://github.com/jyotirmaya16/end_to_end_project_retail_order" target="_blank">End-to-End Retail order Data Visualisation</a>
-      </h3>
-      <p>This project focuses on analyzing a retail order dataset using the ETL (Extract, Transform, Load) process. The goal was to extract data, clean and transform it, then load it into a SQL database for querying and further analysis. The final insights were visualized using Tableau to create an interactive dashboard.</p>
-    </td>
-  </tr>
-</table>
