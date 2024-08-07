@@ -29,6 +29,22 @@
 <table>
   <tr>
     <td width="220">
+      <a href="https://github.com/jyotirmaya16/movie_Recommendation_system?tab=readme-ov-file#content-based-movie-recommendation-system" target="_blank">
+        <img src="https://github.com/user-attachments/assets/444f0b32-2aed-4bf9-a40b-fab36cfb747e" alt="indian_squad_2024_dashboard" width=auto>  
+      </a>
+    </td>  
+    <td>
+      <h3>
+        <a href="https://github.com/jyotirmaya16/movie_Recommendation_system?tab=readme-ov-file#content-based-movie-recommendation-system" target="_blank">Content-Based Movie Recommendation System</a>
+      </h3>
+      <p>This content-based movie recommendation system, built with Streamlit, suggests 5 similar movies along with their posters based on an input movie title using cosine similarity.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="220">
       <a href="https://github.com/jyotirmaya16/Indian-Squad-2024-Dashboard?tab=readme-ov-file#indian-squad-2024-dashboard" target="_blank">
         <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/462730dc-5a03-4e4c-9ef4-91c38ac74fc5" alt="indian_squad_2024_dashboard" width=auto>  
       </a>
@@ -58,19 +74,4 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="220">
-      <a href="https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi?tab=readme-ov-file#spotify-songs-analysis" target="_blank">
-        <img src="https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi/assets/146333462/8257a24f-d338-4e73-9e22-59750da3c083" alt="Spotify Songs Analysis" width=auto>
-      </a>
-    </td>
-    <td>
-      <h3>
-        <a href="https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi?tab=readme-ov-file#spotify-songs-analysis" target="_blank">Spotify Songs Analysis</a>
-      </h3>
-      <p>This project presents a comprehensive analysis of Spotify songs (till 2023) using Power BI, embedded within a phone mockup to enhance the user experience. The dashboard is designed with interactive elements and dynamic visuals to help users explore and understand the data effectively🎵🎵.</p>
-    </td>
-  </tr>
-</table>
 
