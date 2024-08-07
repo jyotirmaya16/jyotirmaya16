@@ -30,7 +30,7 @@
   <tr>
     <td width="220">
       <a href="https://github.com/jyotirmaya16/movie_Recommendation_system?tab=readme-ov-file#content-based-movie-recommendation-system" target="_blank">
-        <img src="https://github.com/user-attachments/assets/444f0b32-2aed-4bf9-a40b-fab36cfb747e" alt="indian_squad_2024_dashboard" width=auto>  
+        <img src="https://github.com/user-attachments/assets/444f0b32-2aed-4bf9-a40b-fab36cfb747e" alt="content-Based Movie Recommendation System" width=auto>  
       </a>
     </td>  
     <td>
