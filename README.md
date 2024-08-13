@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=jyotirmaya16&icon=0&color=11)](https://visitcount.itsvg.in)
 
-- 🔭  Currently learning DSA and advancing my analytical skills
+- 🔭  Currently learning NLP and advancing my analytical skills
 - 👨🏻‍🎓  Studied [Data Analysis](https://olympus1.mygreatlearning.com/certificate/VEEDVPSG) at Great Learning, Hydrabad
 - 👀  Discover more about me on my [portfolio](https://jyotirmaya16.github.io/portfolio.github.io/) website
 - 🌷  Check out my data [visualizations](https://public.tableau.com/app/profile/jyotirmaya.maharana/vizzes) on Tableau!
