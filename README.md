@@ -6,7 +6,7 @@
 
 - 🔭  Currently learning NLP and advancing my analytical skills
 - 👨🏻‍🎓  Studied [Data Analysis](https://olympus1.mygreatlearning.com/certificate/VEEDVPSG) at Great Learning, Hydrabad
-- 👀  Discover more about me on my [portfolio](https://jyotirmaya16.github.io/portfolio.github.io/) website
+- 👀  Discover more about me on my [portfolio](https://jyotirmaya.framer.website/) website
 - 🌷  Check out my data [visualizations](https://public.tableau.com/app/profile/jyotirmaya.maharana/vizzes) on Tableau!
 - 📬  How to reach me [jyotiramyamaharana16@gmail.com](mailto:jyotirmayamaharana16@gmail.com)
 
@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/jyotirmaya-maharana-a32333299" target="blank"><img align="center" src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/ba826ab4-7b04-4aa3-85bf-6e8806c59950" alt="linkedin" height="auto" width="60" /></a>
 <a href="https://www.instagram.com/jyotirmayamaharana" target="blank"><img align="center" src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/654bd059-f6aa-4ed1-a203-08e406d78798" alt="instagram" height="auto" width="60" /></a>
 <a href="https://public.tableau.com/app/profile/jyotirmaya.maharana/vizzes"><img align="center" src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/475e5f4d-aaba-42e1-9a7e-b5f21d925f87" alt="tableau" height="auto" width="60" /></a>
-<a href="https://jyotirmaya16.github.io/portfolio.github.io/"><img align="center" src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/4ed4c65b-144f-4d94-a662-286dc8cb0347" alt="Portfolio" height="auto" width="60" /></a>
+<a href="https://jyotirmaya.framer.website/"><img align="center" src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/4ed4c65b-144f-4d94-a662-286dc8cb0347" alt="Portfolio" height="auto" width="60" /></a>
 </p>
 
 <h3 align="left"><img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/28e73636-ddbe-4f65-b0bf-a28186e3f0c1" alt="waving hand gif" width="30"/> Tech Stacks:</h3>
