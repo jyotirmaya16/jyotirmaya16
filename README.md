@@ -29,6 +29,22 @@
 <table>
   <tr>
     <td width="220">
+      <a href="https://github.com/jyotirmaya16/Text-Encryption-Decryption-App?tab=readme-ov-file#text-encryptiondecryption-app" target="_blank">
+        <img src="https://github.com/user-attachments/assets/8cbe73be-dceb-4383-b164-8af36700a58e" alt="IPL Win Prediction App" width=auto>
+      </a>
+    </td>
+    <td>
+      <h3>
+        <a href="https://github.com/jyotirmaya16/Text-Encryption-Decryption-App?tab=readme-ov-file#text-encryptiondecryption-app" target="_blank">Text Encryption/Decryption App</a>
+      </h3>
+      <p>This project is a simple application that allows users to encrypt and decrypt text using two classic methods: the Atbash Cipher and the A1Z26 Encoder. The app provides an easy-to-use interface for inputting plain text and receiving the encoded or decoded result.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="220">
       <a href="https://github.com/jyotirmaya16/movie_Recommendation_system?tab=readme-ov-file#content-based-movie-recommendation-system" target="_blank">
         <img src="https://github.com/user-attachments/assets/444f0b32-2aed-4bf9-a40b-fab36cfb747e" alt="content-Based Movie Recommendation System" width=auto>  
       </a>
@@ -57,21 +73,3 @@
     </td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <td width="220">
-      <a href="https://github.com/jyotirmaya16/IPL_Win_Prediction?tab=readme-ov-file#ipl-win-prediction-app" target="_blank">
-        <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/5f1837dc-57c0-4712-893c-7326c0498808" alt="IPL Win Prediction App" width=auto>
-      </a>
-    </td>
-    <td>
-      <h3>
-        <a href="https://github.com/jyotirmaya16/IPL_Win_Prediction?tab=readme-ov-file#ipl-win-prediction-app" target="_blank">IPL Win Prediction App</a>
-      </h3>
-      <p>An end-to-end Python application that predicts which IPL team is likely to win the match. This app utilizes 2008-2023 IPL data and machine learning techniques to generate its predictions.</p>
-    </td>
-  </tr>
-</table>
-
-
